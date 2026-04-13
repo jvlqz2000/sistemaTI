@@ -1,0 +1,38 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12 abr 2026, 15:47:25
+    Author     : anton
+*/
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.sidebar {
+    width: 240px;
+    height: 100vh;
+    background: #0f172a;
+    color: white;
+}
+
+.content {
+    background: #f8fafc;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.badge-abierto {
+    background: #ef4444;
+}
+
+.badge-proceso {
+    background: #f59e0b;
+}
+
+.badge-cerrado {
+    background: #22c55e;
+}
